@@ -13,6 +13,7 @@
     <li><a href="practice/out_ex.jsp">out 내장 객체</a></li>
     <li><a href="practice/out_ex2.jsp">out 내장 객체 br</a></li>
     <li><a href="practice/form_element_ex.jsp">form element</a></li>
+    <li><a href="practice/combobox.jsp">combo box</a></li>
 </ul>
 
 <h2> Assginment </h2>
