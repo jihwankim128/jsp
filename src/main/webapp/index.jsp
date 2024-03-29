@@ -9,8 +9,8 @@
 </h1>
 <br/>
 <ul>
-    <li><a href="login/login.jsp">Login Form</a></li>
-    <li><a href="select/selectForm.jsp">Select Form</a></li>
+    <li><a href="assign/login/login.jsp">Login Form</a></li>
+    <li><a href="assign/select/selectForm.jsp">Select Form</a></li>
 </ul>
 </body>
 </html>
