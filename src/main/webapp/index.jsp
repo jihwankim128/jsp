@@ -15,6 +15,7 @@
     <li><a href="practice/form_element_ex.jsp">form element</a></li>
     <li><a href="practice/combobox.jsp">combo box</a></li>
     <li><a href="practice/board.jsp">board</a></li>
+    <li><a href="practice/form_membership01.jsp">join</a></li>
 </ul>
 
 <h2> Assginment </h2>
