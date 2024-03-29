@@ -8,6 +8,9 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="login/login.jsp">Login Form</a>
+<ul>
+    <li><a href="login/login.jsp">Login Form</a></li>
+    <li><a href="select/selectForm.jsp">Select Form</a></li>
+</ul>
 </body>
 </html>
