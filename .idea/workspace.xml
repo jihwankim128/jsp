@@ -7,6 +7,30 @@
     <list default="true" id="981914c2-86e1-4336-bb07-1bd478f0a13a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/board.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/board.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/combobox.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/combobox.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/first.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/action/forward/first.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/form_element_ex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/form_element_ex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/form_membership01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/form_membership01.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/form_membership02.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/form_membership02.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/forward.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/action/forward/forward.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/forward_date.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/action/forward/forward_date.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/include01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/include/include01.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/include01_header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/include/include01_header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/include02.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/include/include02.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/include02_footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/include/include02_footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/include02_header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/include/include02_header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/out_ex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/out_ex.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/out_ex2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/out_ex2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/page_import_date.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/page/page_import_date.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/page_import_util.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/directive/page/page_import_util.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/process.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/process.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/request.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/response01.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/response01.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/response01_failed.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/response01_failed.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/response01_process.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/response01_process.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/response01_success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/base/response01_success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/second.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/action/forward/second.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +98,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\assign" />
-      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\login" />
+      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\directive\page" />
+      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice" />
+      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\directive" />
+      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\base" />
+      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\includedirective" />
     </key>
   </component>
   <component name="RunManager">
@@ -183,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711692715775</updated>
       <workItem from="1711692716823" duration="5534000" />
-      <workItem from="1712292652396" duration="3496000" />
+      <workItem from="1712292652396" duration="4186000" />
     </task>
     <servers />
   </component>
