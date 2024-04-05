@@ -23,6 +23,8 @@
     <li><a href="practice/action/forward/first.jsp">forward action tag 1</a></li>
     <li><a href="practice/action/forward/forward.jsp">forward action tag 2</a></li>
     <li><a href="practice/action/include/first.jsp">include action tag 1</a></li>
+    <li><a href="practice/action/param/forward.jsp">param action tag 1</a></li>
+    <li><a href="practice/action/param/first.jsp">param action tag 2</a></li>
 </ul>
 
 <h2> Assginment </h2>
