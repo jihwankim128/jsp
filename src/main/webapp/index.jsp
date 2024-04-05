@@ -16,6 +16,8 @@
     <li><a href="practice/combobox.jsp">combo box</a></li>
     <li><a href="practice/board.jsp">board</a></li>
     <li><a href="practice/form_membership01.jsp">join</a></li>
+    <li><a href="practice/page_import_util.jsp">directive tag - import util</a></li>
+    <li><a href="practice/page_import_date.jsp">directive tag - import date</a></li>
 </ul>
 
 <h2> Assginment </h2>
