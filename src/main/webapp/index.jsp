@@ -20,6 +20,8 @@
     <li><a href="practice/page_import_date.jsp">page directive tag - import date</a></li>
     <li><a href="practice/include01.jsp">include directive tag 1</a></li>
     <li><a href="practice/include02.jsp">include directive tag 2</a></li>
+    <li><a href="practice/first.jsp">forward action tag 1</a></li>
+    <li><a href="practice/forward.jsp">forward action tag 2</a></li>
 </ul>
 
 <h2> Assginment </h2>
