@@ -25,6 +25,10 @@
     <li><a href="practice/action/include/first.jsp">include action tag 1</a></li>
     <li><a href="practice/action/param/forward.jsp">param action tag 1</a></li>
     <li><a href="practice/action/param/first.jsp">param action tag 2</a></li>
+    <li><a href="practice/cookie/cookie01.jsp">create cookie</a></li>
+    <li><a href="practice/cookie/01_setCookies.jsp">set cookie</a></li>
+    <li><a href="practice/cookie/02_getCookies.jsp">get cookie</a></li>
+    <li><a href="practice/cookie/removeCookies.jsp">remove cookie</a></li>
 </ul>
 
 <h2> Assginment </h2>
