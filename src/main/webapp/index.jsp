@@ -31,6 +31,8 @@
     <li><a href="practice/cookie/removeCookies.jsp">remove cookie</a></li>
     <li><a href="practice/session/session01.jsp">create session</a></li>
     <li><a href="practice/session/session02.jsp">get session</a></li>
+    <li><a href="practice/member/addMemberform.jsp">member bean</a></li>
+    <li><a href="practice/board/boardWriteform.jsp">Board bean</a></li>
 </ul>
 
 <h2> Assginment </h2>

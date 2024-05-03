@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="981914c2-86e1-4336-bb07-1bd478f0a13a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/practice/member/MemberBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/practice/member/MemberBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/member/addMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/member/addMember.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/practice/member/addMemberform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/practice/member/addMemberform.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Jsp File" />
       </list>
     </option>
@@ -65,7 +69,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
@@ -74,11 +78,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\member" />
       <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\directive\page" />
       <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice" />
       <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\directive" />
       <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\base" />
-      <recent name="C:\jihwan\WorkSpace\JSP\demo\src\main\webapp\practice\includedirective" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.practice.board" />
     </key>
   </component>
   <component name="RunManager">
@@ -187,7 +194,11 @@
       <updated>1711692715775</updated>
       <workItem from="1711692716823" duration="5534000" />
       <workItem from="1712292652396" duration="8749000" />
-      <workItem from="1713486950548" duration="4225000" />
+      <workItem from="1713486950548" duration="4503000" />
+      <workItem from="1713961511437" duration="68000" />
+      <workItem from="1714384124488" duration="162000" />
+      <workItem from="1714697298889" duration="3182000" />
+      <workItem from="1714718092546" duration="2932000" />
     </task>
     <servers />
   </component>

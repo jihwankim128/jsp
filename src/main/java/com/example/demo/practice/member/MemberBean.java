@@ -1,3 +1,4 @@
+// MemberBean.java
 package com.example.demo.practice.member;
 
 public class MemberBean {

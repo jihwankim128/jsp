@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: jihwa
-  Date: 2024-05-03
-  Time: 오전 10:54
-  To change this template use File | Settings | File Templates.
---%>
+<%-- addMemberform.jsp --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>

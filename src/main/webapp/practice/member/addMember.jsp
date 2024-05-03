@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: jihwa
-  Date: 2024-05-03
-  Time: 오전 10:47
-  To change this template use File | Settings | File Templates.
---%>
+<!-- addMember.jsp -->
 <%@ page contentType="text/html;charset=UTF-8" language="java" pageEncoding="UTF-8" %>
 <% request.setCharacterEncoding("UTF-8"); %>
 <jsp:useBean id="member" class="com.example.demo.practice.member.MemberBean"/>
